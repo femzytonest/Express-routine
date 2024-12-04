@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "express-routine",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+"server":"nodemon app.js"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
